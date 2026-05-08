@@ -1,12 +1,12 @@
-package com.gotorobinpeter.springbootmicroservicescourse;
+package com.gotorobinpeter.catalog_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootMicroservicesCourseApplication {
+public class CatalogServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootMicroservicesCourseApplication.class, args);
+        SpringApplication.run(CatalogServiceApplication.class, args);
     }
 }
