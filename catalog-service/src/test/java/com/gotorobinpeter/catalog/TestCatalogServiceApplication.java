@@ -1,4 +1,4 @@
-package com.gotorobinpeter.catalog_service;
+package com.gotorobinpeter.catalog;
 
 import org.springframework.boot.SpringApplication;
 
